@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.header_wrapper__IvjF_ span {
+  position: unset !important;
+  object-fit: contain;
+  width: 200px !important;
+  position: absolute !important;
+  height: unset !important;
+  margin-top: -55px !important;
+  left: 30px !important; 
+  height: 200px !important;
+}
